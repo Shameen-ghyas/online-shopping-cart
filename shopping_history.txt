@@ -1,0 +1,53 @@
+
+shameen's Shopping History on 2024-01-12	Product: Cleanser: Quantity: 2,	Product: Toner: Quantity: 1,
+shameen's Shopping History on 2024-01-12	Product: Cleanser: Quantity: 2,
+shameen's Shopping History on 2024-01-12	Product: Cleanser: Quantity: 2,	Total bill is:1300
+shameen's Shopping History on 2024-01-12	Product: Cleanser: Quantity: 3,	Total bill is:1950
+shameen's Shopping History on 2024-01-12	Product: Toner: Quantity: 3,	Total bill is:2385
+shameen's Shopping History on 2024-01-12	Product: Toner: Quantity: 3,	Total bill is:2385
+shameen's Shopping History on 2024-01-12	Product: Toner: Quantity: 3,	Total bill is:2385
+shameen's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Product: Cleanser: Quantity: 1,	Total bill is:1650
+shameen's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Product: Cleanser: Quantity: 1,	Total bill is:1650
+shameen's Shopping History on 2024-01-12	Product: : Quantity: 2,	Product: Cleanser: Quantity: 2,	Product: Serum: Quantity: 1,	Total bill is:1800
+shameen's Shopping History on 2024-01-12	Product: : Quantity: 2,	Product: Cleanser: Quantity: 2,	Product: Serum: Quantity: 1,	Total bill is:1800
+a's Shopping History on 2024-01-12	Product: Serum: Quantity: 3,	Total bill is:1500
+a's Shopping History on 2024-01-12	Product: Serum: Quantity: 3,	Total bill is:1500
+a's Shopping History on 2024-01-12	Product: Sunscreen: Quantity: 1,	Total bill is:900
+a's Shopping History on 2024-01-12	Product: Sunscreen: Quantity: 1,	Total bill is:900
+a's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Total bill is:1000
+a's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Total bill is:1000
+shameen's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Product: Toner: Quantity: 2,	Total bill is:2590
+lalahoho's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Product: Toner: Quantity: 1,	Total bill is:1795
+aneeqa's Shopping History on 2024-01-12	Product: Lotion: Quantity: 2,	Total bill is:1260
+shameen's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Product: Lotion: Quantity: 3,	Product: Sunscreen: Quantity: 1,	Total bill is RS:3790
+shameen's Shopping History on 2024-01-12	Product: Serum: Quantity: 3,	Product: Cleanser: Quantity: 1,	Product: Toner: Quantity: 5,	Product: Lotion: Quantity: 9,	Total bill is RS:11795
+shameen's Shopping History on 2024-01-12	Product: Serum: Quantity: 2,	Product: Toner: Quantity: 3,	Product: Lotion: Quantity: 2,	Total bill is RS:4645
+maheen's Shopping History on 2024-01-12	Product: Toner: Quantity: 2,	Total bill is RS:1590
+a's Shopping History on 2024-01-13	Product: Serum: Quantity: 3,	Product: Toner: Quantity: 4,	Total bill is RS:4680
+a's Shopping History on 2024-01-13	Product: Serum: Quantity: 2,	Product: Cleanser: Quantity: 4,	Product: Toner: Quantity: 2,	TOTAL BILL IS  RS:5190
+shameen's Shopping History on 2024-01-13	Product: Lotion: Quantity: 3,	Product: Toner: Quantity: 1,	Product: Sunscreen: Quantity: 3,	TOTAL BILL IS  RS:5385
+shameen's Shopping History on 2024-01-13	Product: Lotion: Quantity: 3,	Product: Toner: Quantity: 1,	Product: Sunscreen: Quantity: 3,	Product: Cleanser: Quantity: 1,	Product: Serum: Quantity: 2,	TOTAL BILL IS  RS:7035
+iqraabid's Shopping History on 2024-01-13	TOTAL BILL IS  RS:0
+iqraabid's Shopping History on 2024-01-13	Product: Serum, Quantity: 2	Product: Toner, Quantity: 1	Product: Sunscreen, Quantity: 2	TOTAL BILL IS  RS:3595
+shameen's Shopping History on 2024-01-14	Product: Moisturizer, Quantity: 2	Product: Lotion, Quantity: 2	TOTAL BILL IS  RS:2160
+shameen's Shopping History on 2024-01-14	Product: Toner, Quantity: 1	Product: Lotion, Quantity: 2	TOTAL BILL IS  RS:0
+shameen's Shopping History on 2024-01-14	Product: Serum, Quantity: 2	Product: Lotion, Quantity: 3	TOTAL BILL IS  RS:2890
+shameen's Shopping History on 2024-01-14	Product: Sunscreen, Quantity: 2	TOTAL BILL IS  RS:1800
+shameen's Shopping History on 2024-01-14	Product: Lotion, Quantity: 2	Product: Toner, Quantity: 1	Product: Moisturizer, Quantity: 1	TOTAL BILL IS  RS:2505
+shameen's Shopping History on 2024-01-14	Product: Lotion, Quantity: 2	Product: Toner, Quantity: 1	Product: Moisturizer, Quantity: 1	TOTAL BILL IS  RS:2505
+shameen's Shopping History on 2024-01-14	Product: Lotion, Quantity: 2	Product: Serum, Quantity: 2	Product: Toner, Quantity: 1	Product: Sunscreen, Quantity: 3	TOTAL BILL IS  RS:5755
+shameen's Shopping History on 2024-08-02	Product: Serum, Quantity: 2	Product: Acne treatment, Quantity: 4	TOTAL BILL IS  RS:2760
+urooj's Shopping History on 2024-08-02	Product: serum, Quantity: 2	Product: sunscreen, Quantity: 3	Product: acne treatment, Quantity: 2	TOTAL BILL IS  RS:0
+urooj's Shopping History on 2024-08-02	Product: serum, Quantity: 2	Product: sunscreen, Quantity: 3	Product: acne treatment, Quantity: 2	TOTAL BILL IS  RS:0
+urooj's Shopping History on 2024-08-02	Product: serum, Quantity: 2	Product: lotion, Quantity: 3	TOTAL BILL IS  RS:2890
+urooj's Shopping History on 2024-08-02	Product: serum, Quantity: 2	Product: lotion, Quantity: 3	TOTAL BILL IS  RS:2890
+urooj's Shopping History on 2024-08-02	Product: serum, Quantity: 2	Product: lotion, Quantity: 4	TOTAL BILL IS  RS:3520
+urooj's Shopping History on 2024-08-02	Product: serum, Quantity: 12	Product: lotion, Quantity: 3	TOTAL BILL IS  RS:7890
+sarah's Shopping History on 2024-08-02	Product: lotion, Quantity: 3	Product: sunscreen, Quantity: 4	TOTAL BILL IS  RS:5490
+sarah's Shopping History on 2024-08-02	Product: serum, Quantity: 4	Product: lotion, Quantity: 3	TOTAL BILL IS  RS:3890
+sarah's Shopping History on 2024-08-02	Product: serum, Quantity: 4	Product: lotion, Quantity: 3	TOTAL BILL IS  RS:3890
+sarah's Shopping History on 2024-08-02	Product: serum, Quantity: 3	TOTAL BILL IS  RS:1500
+sarah's Shopping History on 2024-08-02	Product: serum, Quantity: 3	TOTAL BILL IS  RS:1500
+sarah's Shopping History on 2024-08-02	Product: serum, Quantity: 3	TOTAL BILL IS  RS:1500
+sarah's Shopping History on 2024-08-02	Product: serum, Quantity: 3	Product: lotion, Quantity: 5	TOTAL BILL IS  RS:4650
+sarah's Shopping History on 2024-08-03	Product: lotion, Quantity: 3	TOTAL BILL IS  RS:1890
